@@ -2,12 +2,16 @@ import React from "react"
 import { graphql } from "gatsby"
 import Header from "../components/header"
 import Container from "../components/container"
+import { Link } from "gatsby"
+import Footer from "../components/footer"
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
+  pageContext,
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  const { previous, next } = pageContext
   return (
     <Header>
       <Container>
@@ -20,8 +24,36 @@ export default function Template({
               dangerouslySetInnerHTML={{ __html: html }}
             />
           </div>
+
+          {/* <nav>
+            <ul
+              style={{
+                display: `flex`,
+                flexWrap: `wrap`,
+                justifyContent: `space-between`,
+                listStyle: `none`,
+                padding: 50,
+              }}
+            >
+              <li>
+                {previous && (
+                  <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title}
+                  </Link>
+                )}
+              </li>
+              <li>
+                {next && (
+                  <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </nav> */}
         </div>
       </Container>
+      <Footer />
     </Header>
   )
 }
