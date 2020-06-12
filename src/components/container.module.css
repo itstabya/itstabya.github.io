@@ -1,0 +1,7 @@
+.container {
+  margin: auto;
+  display: flex;
+  max-width: 800px;
+  width: 100%;
+  min-width: 100px;
+}

@@ -1,0 +1,51 @@
+html {
+  background-color: #fffcf3;
+  font-family: Karla, sans-serif;
+}
+
+h1 {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 48px;
+  line-height: 59px;
+  color: #202020;
+}
+
+h2 {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 43px;
+  color: #202020;
+}
+
+p.body {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 25px;
+  color: #202020;
+}
+
+p.secondary {
+  font-family: Karla;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #202020;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+}
+ul > li:before {
+  content: "–"; /* en dash */
+  position: absolute;
+  margin-left: -1.1em;
+}
