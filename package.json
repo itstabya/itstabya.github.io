@@ -22,6 +22,7 @@
     "typography-theme-grand-view": "^0.16.19"
   },
   "devDependencies": {
+    "gh-pages": "^3.0.0",
     "prettier": "2.0.5"
   },
   "keywords": [
