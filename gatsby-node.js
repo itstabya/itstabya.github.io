@@ -5,7 +5,6 @@
  */
 if (process.env.NODE_ENV === "development") {
   process.env.GATSBY_WEBPACK_PUBLICPATH = "/"
-  console.log("why r my images failing")
 }
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)

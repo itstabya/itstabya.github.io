@@ -20,10 +20,11 @@ export default function Index() {
             I'm currently an incoming third year at MIT studying computer
             science and Asian studies and diaspora. I've also taken coursework
             in design and management. I've never physically taken something
-            apart and put it back together successfully, but I'm adept at
-            dismantling the mediums we weave in and out of everyday to examine
-            them critically in order to rebuild better, more considerate
-            versions. Think the Internet, team dynamics, systems of power.
+            apart and put it back together successfully (oops, clumsy hands!),
+            but I'm adept at dismantling the mediums we weave in and out of
+            everyday to examine them critically in order to rebuild better, more
+            considerate versions. Think the Internet, team dynamics, systems of
+            power.
           </p>
           <p>
             <b>
@@ -40,21 +41,16 @@ export default function Index() {
           <p>
             <b>
               <Emoji symbol="🔑" />
-              Key Things to Know:{" "}
+              Fun Bits:{" "}
             </b>{" "}
-            <ul>
-              <li>
-                I grew up in the San Gabriel Valley of Southern California, and
-                my childhood upbringing in this area has shaped me in being
-                unapologetically Asian-American.
-              </li>
-              <li>
-                My first name is derived from the sum of my parents' last names:
-                Tan and Yang.
-              </li>
-              <li>I like Noosa yogurt, dogspotting, and doodling. </li>
-            </ul>
+            I grew up in the San Gabriel Valley of Southern California, and my
+            childhood upbringing in this area has shaped me in being
+            unapologetically Asian-American. My first name is just the somewhat
+            sum of my parents' last names – Tan and Yang! I also love to eat
+            Noosa yogurt, engage in the serious sport of dogspotting, and take
+            my 14 year-old beagle Happy out for very slow walks.
           </p>
+          <p>See you later!</p>
         </div>
       </Container>
     </Header>
