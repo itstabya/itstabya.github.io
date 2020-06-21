@@ -6,6 +6,7 @@ export default function Header({ children }) {
   return (
     <div>
       <header className={headerStyles.container}>
+        <title>{data.site.siteMetadata.title}</title>
         <div className={headerStyles.nav}>
           <Link className={headerStyles.navLink} to="/">
             tanya yang
