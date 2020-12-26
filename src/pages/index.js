@@ -26,7 +26,7 @@ export default function Index() {
             <p> i'm on a gap semester for spring 2021, working on cool 
               stuff at <a href="http://clay.run">clay.run</a>!
             </p>
-            <p> <a href="https://twitter.com/itstabya">twitter</a> | <a href="http://linkedin.com/yangtanya125">linkedin</a> | tanyang [at] mit [dot] edu </p>
+            <p> <a href="https://twitter.com/itstabya">twitter</a> | <a href="https://www.linkedin.com/in/yangtanya125/">linkedin</a> | tanyang [at] mit [dot] edu </p>
           </div>
       </Container>
      </Header>
