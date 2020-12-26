@@ -113,10 +113,11 @@ ul > li:before {
 .img-doodle {
   max-width: 100%;
   transition:transform 0.25s ease;
-  height: 350px
+  /* height: 350px */
+  margin-bottom: 100px;
 }
 
 .img-doodle:hover {
-  -webkit-transform:scale(1.5); /* or some other value */
-  transform:scale(1.5);
+  -webkit-transform:scale(1.25); /* or some other value */
+  transform:scale(1.25);
 }

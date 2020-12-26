@@ -35,27 +35,40 @@ export default function Doodles() {
     <Header>
 
       <Container>
-        <div class="doodle-body">
+        {/* <div class="doodle-body">
         <p> you've made it to the doodles page! currently figuring out a better way to display
           all of these, but for now, they're just chilling on this page. super simple hobby of mine,
           involving digging through my favorite pictures of a particular slice of time and doodling
           on top of them in notability. i'm personally inspired by color, so this is a helpful meditative
           hobby to ground myself.
         </p>
-        </div>
 
-        {/* <img src={jrFall} class="img-doodle"/>
+        
+        </div> */}
+
+        <p> you've made it to the doodles page! currently figuring out a better way to display
+          all of these, but for now, they're just chilling on this page. super simple hobby of mine,
+          involving digging through my favorite pictures of a particular slice of time and doodling
+          on top of them in notability. i'm personally inspired by color, so this is a helpful meditative
+          hobby to ground myself.
+        </p>
+        <img src={jrFall} class="img-doodle"/>
         <img src={sophYear} class="img-doodle"/>
         <img src={aboutMe} class="img-doodle"/>
+        <p> from 2019 below!</p>
         <img src={maineFall19} class="img-doodle"/>
         <img src={acadiaSummer19} class="img-doodle"/>
         <img src={sfSummer19} class="img-doodle"/>
         <img src={homeSpring19} class="img-doodle"/>
+
+        <p> from 2018 below! </p>
         <img src={bigFattiesSummer18} class="img-doodle"/>
-        <img src={seattleSummer18} class="img-doodle"/> */}
+        <img src={seattleSummer18} class="img-doodle"/>
+
+       
 
 
-        <div class="img-doodle-left"> <img src={jrFall} class="img-doodle"/></div>
+        {/* <div class="img-doodle-left"> <img src={jrFall} class="img-doodle"/></div>
         <div class="img-doodle-right"> <img src={sophYear} class="img-doodle"/></div>
 
 
@@ -68,7 +81,7 @@ export default function Doodles() {
         <div class="img-doodle-left"> <img src={homeSpring19} class="img-doodle"/></div>
         <div class="img-doodle-right"> <img src={bigFattiesSummer18} class="img-doodle"/></div>
 
-        <div class="img-doodle-left"> <img src={seattleSummer18} class="img-doodle"/></div>
+        <div class="img-doodle-left"> <img src={seattleSummer18} class="img-doodle"/></div> */}
       </Container>
      </Header>
   )
