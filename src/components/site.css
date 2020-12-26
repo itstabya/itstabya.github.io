@@ -1,8 +1,6 @@
 
 /* tan 6a9377 */
 
-
-
 html {
   background-color: #398661;
   font-family: Karla, sans-serif;
@@ -12,7 +10,7 @@ h1 {
   font-family: Rubik, sans-serif;
   font-style: normal;
   font-weight: 900;
-  font-size: 70px;
+  font-size: 60px;
   line-height: 59px;
   color: #F2F2F2;
 }
@@ -30,7 +28,7 @@ p {
   font-family: Karla;
   font-style: normal;
   font-weight: 100;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 25px;
   color: #F2F2F2;
 }
@@ -70,9 +68,16 @@ ul > li:before {
   width: 30%;
 }
 
+#doodles {
+  z-index: -1;
+  position: absolute;
+  width: 30%;
+  left: 200px
+}
+
 #me-img {
   border-radius: 50%;
-  height: 250px;
+  height: 200px;
 }
 
 #welcome {
