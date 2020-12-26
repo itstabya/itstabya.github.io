@@ -1,7 +1,7 @@
 .container {
   margin: auto;
-  display: flex;
-  max-width: 800px;
+  display: grid;
+  max-width: 50%;
   width: 100%;
-  min-width: 100px;
+  min-width: 35%;
 }

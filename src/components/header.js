@@ -10,7 +10,10 @@ export default function Header({ children }) {
           <Link className={headerStyles.navLink} to="/">
             tanya yang
           </Link>
-          <Link className={headerStyles.navLink} to="/etc/">
+          <Link className={headerStyles.navLink} to="/doodles/">
+            doodles
+          </Link>
+          {/* <Link className={headerStyles.navLink} to="/etc/">
             blog(ish)
           </Link>
           <a
@@ -18,10 +21,10 @@ export default function Header({ children }) {
             className={headerStyles.navLink}
           >
             newsletter
-          </a>
-          <a href="mailto: tanyang@mit.edu" className={headerStyles.navLink}>
+          </a> */}
+          {/* <a href="mailto: tanyang@mit.edu" className={headerStyles.navLink}>
             contact
-          </a>
+          </a> */}
         </div>
       </header>
       {children}

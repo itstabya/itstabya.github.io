@@ -3,8 +3,8 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
-if (process.env.NODE_ENV === "development") {
-  process.env.GATSBY_WEBPACK_PUBLICPATH = "/"
+if (process.env.NODE_ENV === 'development') {
+  process.env.GATSBY_WEBPACK_PUBLICPATH = '/'
 }
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
