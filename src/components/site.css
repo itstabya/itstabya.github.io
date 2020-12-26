@@ -115,6 +115,7 @@ ul > li:before {
   transition:transform 0.25s ease;
   /* height: 350px */
   margin-bottom: 100px;
+  border-radius: 10px;
 }
 
 .img-doodle:hover {
