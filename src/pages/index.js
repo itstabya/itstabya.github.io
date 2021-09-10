@@ -27,7 +27,7 @@ export default function Index() {
               me proud – if you're interested in similar personal philosophies, please reach out!</p>
             <p> This past summer, I worked at Roblox as a product management intern, specifically on the Social team in establishing more autonomy and control for users to play in the social capacities they personally thrive in.
               In the past, I've supported product efforts at <a href="https://kalepa.co/">Kalepa</a>, implemented culturally responsive lesson plans at <a href="https://www.almostfun.org/">Almost Fun</a>, and published in 
-              <a href="https://dl.acm.org/doi/10.1145/3411764.3445211">CHI 2021</a> with the <a href="http://vis.csail.mit.edu/">MIT Visualization Group</a> (our work won a Best Paper Honourable Mention!).
+              <a href="https://dl.acm.org/doi/10.1145/3411764.3445211"> CHI 2021</a> with the <a href="http://vis.csail.mit.edu/">MIT Visualization Group</a> (our work won a Best Paper Honourable Mention!).
             </p>
             <p> <a href="https://twitter.com/itstabya">twitter</a> | <a href="https://www.linkedin.com/in/yangtanya125/">linkedin</a> | tanyang [at] mit [dot] edu </p>
           </div>
