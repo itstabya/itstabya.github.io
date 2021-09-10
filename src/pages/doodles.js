@@ -51,16 +51,16 @@ export default function Doodles() {
         </p>
         </div> */}
 
-        <p> you've made it to the doodles page! currently figuring out a better way to display
-          all of these, but for now, they're just chilling on this page. super simple hobby of mine,
+        <p> You've made it to the doodles page! Currently figuring out a better way to display
+          all of these, but for now, they're just chilling on this page. Super simple hobby of mine,
           involving digging through my favorite pictures of a particular slice of time and doodling
-          on top of them in notability. i'm personally inspired by color, so this is a helpful meditative
+          on top of them in notability. I'm personally inspired by color, so this is a helpful meditative
           hobby to ground myself.
         </p>
         <img src={jrFall} class="img-doodle"/>
         <img src={sophYear} class="img-doodle"/>
         <img src={aboutMe} class="img-doodle"/>
-        <p> from 2019 below!</p>
+        {/* <p> from 2019 below!</p> */}
         <img src={maineFall19} class="img-doodle"/>
         <img src={acadiaSummer19} class="img-doodle"/>
         <img src={sfSummer19} class="img-doodle"/>
