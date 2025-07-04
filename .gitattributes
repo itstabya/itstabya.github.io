@@ -1,0 +1,5 @@
+# Force LF line endings, needed for Docker to work on Windows
+*.sh text eol=lf
+*.JPG !text !filter !merge !diff
+*.png !text !filter !merge !diff
+*.gif !text !filter !merge !diff
