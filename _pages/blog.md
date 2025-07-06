@@ -17,6 +17,9 @@ pagination:
 ---
 
 <div class="post">
+<div class="text-center mt-n5 mb-n2">
+<img src="../assets/img/blog-label.png" class="mx-auto d-block">
+</div>
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -28,7 +31,6 @@ pagination:
     <h2>{{ site.blog_description }}</h2>
   </div>
   {% endif %}
-
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
@@ -58,7 +60,7 @@ pagination:
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
-<br>
+<!-- <br>
 
 <div class="container featured-posts">
 {% assign is_even = featured_posts.size | modulo: 2 %}
@@ -97,7 +99,7 @@ pagination:
       {% endfor %}
       </div>
     </div>
-    <hr>
+    <hr> -->
 
 {% endif %}
 
