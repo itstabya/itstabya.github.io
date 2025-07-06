@@ -1,0 +1,37 @@
+// Custom styles for image cropping and flexbox layouts
+
+.min-height-row {
+    display: flex !important;
+    align-items: stretch;
+
+    > [class*="col-"] {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-fluid {
+        flex: 1;
+        object-fit: cover;
+    }
+}
+
+// Cropping position classes
+.crop-top .img-fluid {
+    object-position: top;
+}
+
+.crop-center .img-fluid {
+    object-position: center;
+}
+
+.crop-bottom .img-fluid {
+    object-position: bottom;
+}
+
+.crop-left .img-fluid {
+    object-position: left;
+}
+
+.crop-right .img-fluid {
+    object-position: right;
+} 

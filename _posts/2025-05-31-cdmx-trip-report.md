@@ -26,7 +26,7 @@ I had the privilege of visiting Mexico City over the long weekend -- while we on
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center min-height-row">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/trip-reports/cdmx/DSCF4197.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
