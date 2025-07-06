@@ -6,4 +6,4 @@ module Jekyll
       system("bash bin/img_preprocess.sh")
     end
   end
-end 
+end
