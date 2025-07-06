@@ -12,6 +12,7 @@ images:
   spotlight: true
   venobox: true
 ---
+
 I had the privilege of visiting Mexico City over the long weekend -- while we only had three full days, it was plenty time for some wonderful experiences, from local markets to impressive museums. I understand why so many folks rave about Mexico City, especially from San Francisco; it truly packs the punch of a big international trip while only being five hours away.
 
 <div class="row" style="margin-bottom: 14px;">

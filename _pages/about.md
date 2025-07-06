@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof-pic.JPG
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info:
 social: false # includes social icons at the bottom of the page
 
 latest_posts:
@@ -19,5 +19,4 @@ latest_posts:
 
 Currently a product manager at Microsoft, working on design and development patterns for the Azure Portal. Previously, I built social features for Roblox and published in human-computer interaction.
 
-I'm interested broadly in social media, online communities, systems of governance, and more. I also enjoy spending time outside, whether it's running, hiking, skiing, biking, or generally exploring. 
-
+I'm interested broadly in social media, online communities, systems of governance, and more. I also enjoy spending time outside, whether it's running, hiking, skiing, biking, or generally exploring.
