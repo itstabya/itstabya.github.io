@@ -3,8 +3,8 @@ layout: post
 title: the fujifilm hall of fame
 date: 2025-07-07
 description: my favorite photos + reflections on my camera
-tags: fujifilm travel nature
-categories: trip-reports
+tags: fujifilm
+categories: reflection
 thumbnail: assets/img/fujifilm-hof/DSCF3485.JPG
 
 ---
@@ -13,6 +13,15 @@ thumbnail: assets/img/fujifilm-hof/DSCF3485.JPG
 My first big girl promotion and bonus came in August of 2023, a year after I had started working full-time, and I wanted to buy myself something nice to commemorate the milestone. I chewed on a few things, from a fancy purse to furniture upgrades, but I struggled with making such a big purchase for a materialist good. I did know that I had a big international trip coming up, with two weeks in Spain, and that my phone, while still functioning, perhaps wasn't the best camera to capture the upcoming adventure.
 
 Growing up, I always enjoyed playing with my dad's cameras, but there were bulky and cumbersome to carry around. I spent a good amount of my early college days carrying a Polaroid camera around, and I treasure the box of Polaroid photos I have as a snapshot into my eighteen year old self, navigating college and life beyond home for the first time. I figured a camera would be a thoughtful investment for my twenties.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2838.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    One of my favorite photos, taken at the Chain Lakes Loop in the Mount Baker wilderness area. I love the reflection of the sky halo-ing a mom and her daughter, with the grandness of the lake behind them. This photo combines so much of my favorite themes: nature, scale, humans as proxy, a slice of life.
+</div>
 
 I ended up buying a Fujifilm XT30ii, after a bit of research online -- I've always wanted to shoot on film, but to be honest, I'm lazy and haven't crossed the activation energy to get into it properly. I'm a big fan of the film simulations -- I shoot on a Kodak Portra film simulation -- and I liked the option for interchangeable lenses. I did consider the overwhelmingly popular X100V, but the price felt right for the XT30ii (plus, I didn't want to commit to a fixed lens). The most significant complaints of the XT30ii seemed to be centered on size; it's a very petite camera, and folks with big hands have some trouble grasping it and will even resort to adding a frame on top. Not an issue in my book, more of a plus! At one point, I had gone into the rabbit hole of too many Fujifilm cameras and the technical specs of each, but realistically, my amateur approach frees me, in knowing that I don't know enough to care, or care enough to know.
 
@@ -24,18 +33,18 @@ I've been chewing on getting a wider lens -- the pancake can sometimes be a litt
 
 Bringing my camera feels like journaling in live time -- I've noticed I am much more thoughtful in noticing things and keeping an eye out for "the shot." 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2838.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
-<div class="caption">
-    One of my favorite photos, taken at the Chain Lakes Loop in the Mount Baker wilderness area. I love the reflection of the sky halo-ing a mom and her daughter, with the grandness of the lake behind them. This photo combines so much of my favorite themes: nature, scale, humans as proxy, a slice of life.
-</div>
-
 I think a lot about the notion of personal style and taste, in fashion, interior design, and more -- I respect the hell out of people who have taken the time to get to know themselves and live that version freely. On that note, over time, I've noticed I've developed the personal goal of articulating my photography style more clearly; I want to look at a photo and know that the artistic choices have been exercised the way I see the world.
 
 A way of better knowing that is by evaluating my work at scale and seeing what patterns emerge. Hope you enjoy this mini collection of my favorite photos and that you see some themes yourself.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF4154.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    This shot feels like a Where's Waldo adventure to me -- I took it at Tunnel Tops, the new(ish) park in the Presidio in San Francisco, where you get the most epic view of the bridge and there's just so many people enjoying the scenery.
+</div>
 
 ### markets, color, flowers
 We'll start small with a few photos from markets -- going to markets is one of my favorite parts of traveling. Pike Place Market in Seattle is one of my favorite places on Earth; while it's a major tourist destination, it has plenty of hidden gems of local life. I find the colors always to be a delight.
@@ -158,6 +167,18 @@ I get to combine a ton of these themes in nature, and I've always just been so p
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0196.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0246.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0194.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2510.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -171,6 +192,14 @@ I get to combine a ton of these themes in nature, and I've always just been so p
     From our Enchantments backpacking trip, in July 2024. We somehow managed to snag permits and spent three days, two nights in the Alpine Lake Wildnerness. In particular, I love how small we look amidst the rocks, like we're minature.
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2800.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2860.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
