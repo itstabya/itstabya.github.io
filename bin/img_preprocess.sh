@@ -14,7 +14,8 @@ find assets/img_uncompressed -type f \( -iname "*.jpg" -o -iname "*.jpeg" \) | w
     echo "Found: $img"
     echo "Will create: $output_path"
     # Resize to max web size with quality 100
-    magick "$img" -resize 1400x1400 -quality 100 "$output_path"
+    #magick "$img" -resize 1400x1400 -quality 100 "$output_path"
+    magick "$img" -auto-orient -resize 1400x1400 -quality 100 "$output_path"
     echo "Processed: $img → $output_path"
     echo "---"
   fi

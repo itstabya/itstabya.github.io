@@ -14,7 +14,7 @@ My first big girl promotion and bonus came in August of 2023, a year after I had
 
 Growing up, I always enjoyed playing with my dad's cameras, but there were bulky and cumbersome to carry around. I spent a good amount of my early college days carrying a Polaroid camera around, and I treasure the box of Polaroid photos I have as a snapshot into my eighteen year old self, navigating college and life beyond home for the first time. I figured a camera would be a thoughtful investment for my twenties.
 
-<div class="row">
+<div class="row" style="margin-bottom: 14px;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2838.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -164,6 +164,9 @@ I get to combine a ton of these themes in nature, and I've always just been so p
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1912.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div style="caption">
+Both of these shots are from the Olympic penninsula, the left from my very first backpacking trip with my dear friend Elliott, and the right from when I snagged Sol Duc campground reservations. I always have trouble shooting in the woods because of how dark it can be versus how bright the day is, often leading to a bit of overexposure, but I still love the way the light looks in these shots.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -175,6 +178,9 @@ I get to combine a ton of these themes in nature, and I've always just been so p
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0194.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div style="caption">
+I love how Seattle has four seasons and has the walking paths to take in the sights of the seasons changing. The left is from my daily walk back when I lived in Queen Anne, the middle from the Greenlake loop, the right from that same Queen Anne stroll.
 </div>
 
 <div class="row">
@@ -199,6 +205,9 @@ I get to combine a ton of these themes in nature, and I've always just been so p
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2860.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+This Chain Lakes trip just keeps giving; I was surprised to see so many wildflowers in late August. I feel like my friends look like catalog backpackers here!
 </div>
 
 <div class="row">
@@ -241,6 +250,15 @@ I get to combine a ton of these themes in nature, and I've always just been so p
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2057.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0668.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    From a day trip to Girona, an hour out of Barcelona.
 </div>
 
 <div class="row">
