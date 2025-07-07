@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-big-sur-vicente-flat-trail-trip-report",
+        },{id: "post-the-fujifilm-hall-of-fame",
+        
+          title: "the fujifilm hall of fame",
+        
+        description: "my favorite photos + reflections on my camera",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/fujifilm-hof/";
+          
+        },
+      },{id: "post-big-sur-vicente-flat-trail-trip-report",
         
           title: "big sur vicente flat trail trip report",
         
