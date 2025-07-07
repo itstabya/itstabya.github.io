@@ -21,3 +21,5 @@ Currently a product manager at Microsoft, working on design and development patt
 
 I'm interested broadly in social media, online communities, systems of governance, and more. I also enjoy spending time outside, whether it's running, hiking, skiing, biking, or generally exploring. 
 
+You can find me elsewhere on the Internet, at my [X](https://x.com/itstabya) or [LinkedIn](https://www.linkedin.com/in/yangtanya125/).
+

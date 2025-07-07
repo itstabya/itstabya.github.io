@@ -18,7 +18,7 @@ pagination:
 
 <div class="post">
 <div class="text-center mt-n5 mb-n2">
-<img src="../assets/img/blog-label.png" class="mx-auto d-block">
+<img src="../assets/img/blog-label.png" class="mx-auto d-block" style="width: 80%; max-width: 400px;">
 </div>
 
 {% assign blog_name_size = site.blog_name | size %}
