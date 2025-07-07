@@ -117,7 +117,7 @@ Spanish architecture was out of this world, felt like it was timeless. I love sn
 
 I also love working with scale, particularly with people as a proxy for size. I think figures bring a touch more interest into a photo and frame how grand of a scale we might be looking at. It's also so fun when there's a hidden Easter egg, like a little game of I-SPY.
 
-<div class="row">
+<div class="row" style="margin-bottom: 14px;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1839.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -138,7 +138,7 @@ I also love working with scale, particularly with people as a proxy for size. I 
     Outside of the Walker Museum, from a short trip to Minneapolis in the late summer. It was so beautiful in the Midwest this time of year; I had to remind myself of the biterness of the winter with all the snow plow signs. One of my favorite museums -- museums are some of my favorite places, and a proper outdoor sculpture garden really marries the museum with its environment.
 </div>
 
-<div class="row">
+<div class="row" style="margin-bottom: 14px;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2174.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -164,7 +164,7 @@ I get to combine a ton of these themes in nature, and I've always just been so p
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1912.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div style="caption">
+<div class="caption">
 Both of these shots are from the Olympic penninsula, the left from my very first backpacking trip with my dear friend Elliott, and the right from when I snagged Sol Duc campground reservations. I always have trouble shooting in the woods because of how dark it can be versus how bright the day is, often leading to a bit of overexposure, but I still love the way the light looks in these shots.
 </div>
 
@@ -179,8 +179,17 @@ Both of these shots are from the Olympic penninsula, the left from my very first
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0194.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div style="caption">
+<div class="caption">
 I love how Seattle has four seasons and has the walking paths to take in the sights of the seasons changing. The left is from my daily walk back when I lived in Queen Anne, the middle from the Greenlake loop, the right from that same Queen Anne stroll.
+</div>
+
+<div class="row" style="margin-bottom: 14px">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1685.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1949.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
 
 <div class="row">
@@ -234,7 +243,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     Sea turtles on Oahu, seals along the Monterey coast, wild horses on Big Island. I was really proud of capturing the dynamicity of these horses; they seemed so carefree.
 </div>
 
-<div class="row">
+<div class="row" style="margin-bottom: 14px;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2022.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -242,14 +251,40 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2624.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-<div class="row">
+<div class="row" style="margin-bottom: 14px;">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1994.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2025.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2043.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row" style="margin-bottom: 14px;">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2811.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2057.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+
+
+### seeing the world
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF4143.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF3026.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Life in San Francisco - a walk along Fort Funston, fun sculptures at the SFMOMA.
 </div>
 
 <div class="row">
@@ -267,5 +302,17 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF3485.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Our October 2024 trip to Japan - my first time and definitely not my last.
+</div>
+
+<div class="row" style="margin-bottom: 14px">
+    <div class="col-7 mt mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0232.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-5 mt mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0238.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
