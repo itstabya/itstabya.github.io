@@ -84,12 +84,11 @@ I never quite understood backpacking as a hobby; it always seemed like an expens
 
 Weirdly enough though, there's a few facets of backpacking that have really charmed me, even with trips that don't always turn out perfect. For one, it's simply beautiful out there, and with all the screentime I probably log, nothing beats being able to experience life myself instead of through the manufactured experience of another. Backpacking reminds me that hard things are worth doing, that nothing is guaranteed, that nature doesn't owe you anything -- and you're still able to experience an adventure of a lifetime. I've learned that I like getting away and that my biggest responsibilities are really quite simple -- to survive and to enjoy my time. Life is stripped down to its simplest form, which I suspect is why people love and hate it. 
 
-And, with all the fun I've had outside, it makes me so much more appreciative of my car, clean clothes, a warm shower, and my bed!
-
+And, with all the fun I've had outside, it makes me so much more appreciative of my car, clean clothes, a warm shower, and my bed! Always grateful for another weekend spent outdoors.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/trip-reports/chainlakesbackpacking/DSCF2801.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/trip-reports/chainlakesbackpacking/DSCF2807.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

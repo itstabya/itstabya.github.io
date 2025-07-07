@@ -36,7 +36,7 @@ We stayed in the Condesa neighborhood, and it was great walking proximity to man
         {% include figure.liquid loading="eager" path="assets/img/trip-reports/cdmx/DSCF4267.jpg"  class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-x
+
 <div class="row justify-content-sm-center" style="margin-bottom: 14px;">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/trip-reports/cdmx/DSCF4197.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
