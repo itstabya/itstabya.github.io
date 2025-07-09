@@ -74,7 +74,7 @@ Photos from Pike Place, the Olympia farmers market, and a Spanish mercado. I lov
     </div>
 </div>
 <div class="caption">
-Spring in the PNW is always a treat.
+Spring in the PNW is always a treat; I grew up in southern California, where there's no cold winters, so spring flowers always surprise me. I have a soft spot for rhododendrons, and I captured this particularly pretty bush on an evening walk to the park in Seattle. Bringing your camera along your normal route is always a fun exercise. The second photo is from outside the Olympia Farmer's Market, I thought it was such a gorgeous backdrop for kids in line for balloon animals. Really feels like spring wrapped up in one photo, the clouds almost look watercolored on!
 </div>
 
 
@@ -128,6 +128,9 @@ I also love working with scale, particularly with people as a proxy for size. I 
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2098.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+These are some real moody photos -- ferry ride from Bainbridge back to Seattle after a camping trip in Olympic National Park, a single lit window in Barcelona, the sunset in Waikiki.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -149,12 +152,14 @@ I also love working with scale, particularly with people as a proxy for size. I 
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2650.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
+<div class="caption">
+A fun assortment of photos: Andrew at Volcanoes National Park, on the Kilauea Iki Trail, pumpkin picking in Seattle (big fan of the little pops of orange), morning sunrise from our Enchantments camping spot.
+</div>
 
 ### bring it all together, outside 
 
 
-I get to combine a ton of these themes in nature, and I've always just been so privileged to go to some incredible places. I never met a tree I didn't like.
+I get to combine a ton of these themes in nature, and I've always just been so privileged to go to some incredible places. I never met a tree I didn't like!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -191,6 +196,9 @@ I love how Seattle has four seasons and has the walking paths to take in the sig
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF1949.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+First photo is from Volunteer Park, which I walked to almost daily back in Seattle, and it feels like the sun is shining just for this park enjoyer. Second photo is from Sol Duc Falls in Olympic National Park, which was a super easy hike from our campground. Andrew looks so tiny amidst everything.
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -204,7 +212,7 @@ I love how Seattle has four seasons and has the walking paths to take in the sig
     </div>
 </div>
 <div class="caption">
-    From our Enchantments backpacking trip, in July 2024. We somehow managed to snag permits and spent three days, two nights in the Alpine Lake Wildnerness. In particular, I love how small we look amidst the rocks, like we're minature.
+    From our Enchantments backpacking trip, in July 2024. We somehow managed to snag permits (less than 2% chance!) and spent three days, two nights in the Alpine Lake Wildnerness. In particular, I love how small we look amidst the rocks, like we're minature.
 </div>
 
 <div class="row">
@@ -225,7 +233,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     </div>
 </div>
 <div class="caption">
-    This is another one of my favorites -- in fact, it's set as my desktop background. From the same Chain Lakes trip, right at the beginning of the hike. I love how the people look like little ants.
+    This is another one of my favorites -- in fact, it's set as my desktop background. From that same Chain Lakes trip, right at the beginning of the hike. I love how the people look like little ants.
 </div>
 
 <div class="row">
@@ -270,10 +278,17 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF2057.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+<div class="caption">
+A collection of photos from PNW backpacking trips and our Hawaii vacation in June of 2024. Andrew and I always reflect on this particular trip being one of our most epic vacations ever; we got to do so much, from UTV adventures to manta ray snorkeling. It was the kind of vacation you need a vacation for, in the best way possible.
+</div>
 
 
 
-### seeing the world
+### photography in the grandness of this world
+
+Sometimes, when I review my photos, I'll have a moment of frustration, that I only managed to take a few photos that I'm proud of. For every photo in this "hall of fame," there's probably a corresponding twenty that won't see the light of day. This is a post for only the biggest of wins -- we don't have enough storage to cover everything else.
+
+I have to remind myself that every single photo is an exercise in capturing precious moments, and these photographs each have a corresponding memory and feeling to them -- I remember where I am, I recall how I feel, I know exactly where I'm in in the grandness of this world. I love how for me, my photography transcends time back to that one special moment, the specific smell and crispness of the air, the infinite gratitude to experience something so full that I can't help but capture a permanent version of it.  
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -284,7 +299,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     </div>
 </div>
 <div class="caption">
-    Life in San Francisco - a walk along Fort Funston, fun sculptures at the SFMOMA.
+    Life in San Francisco - a walk along Fort Funston, fun sculptures at the SFMOMA. Moving to a new city as an adult came with quite a set of challenges, but there's no better feeling than getting settled into your place in the city.
 </div>
 
 <div class="row">
@@ -293,7 +308,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     </div>
 </div>
 <div class="caption">
-    From a day trip to Girona, an hour out of Barcelona.
+    From a day trip to Girona, an hour out of Barcelona. It's funny I look at this picture and strictly remember our whole fiasco of nearly missing our train because we didn't realize trains had security in Europe. 
 </div>
 
 <div class="row">
@@ -305,7 +320,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     </div>
 </div>
 <div class="caption">
-    Our October 2024 trip to Japan - my first time and definitely not my last.
+    Our October 2024 trip to Japan - my first time and definitely not my last. I found Japan really hard to shoot actually for two reasons: my pancake lens felt a little too tight for how crowded the areas we visited were, and I felt like some spots were so scenic and overdone (let's be real, I consumed too much content about Japan trips) that it was hard to develop my own spin on them. Still, this picture of Andrew and me that a random stranger took for us is one of my favorite photos of all time. It feels like one of those photos my kids will look back on. Best part is I don't even think we're in focus 😹
 </div>
 
 <div class="row" style="margin-bottom: 14px">
@@ -315,4 +330,7 @@ This Chain Lakes trip just keeps giving; I was surprised to see so many wildflow
     <div class="col-5 mt mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/fujifilm-hof/DSCF0238.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+<div class="caption">
+    Chloe in our second Seattle apartment, probably my favorite place I've lived so far. High ceilings, super quiet top unit, ten minutes from everything and everybody I loved in the city.
 </div>
